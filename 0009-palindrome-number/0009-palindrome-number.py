@@ -6,9 +6,11 @@ class Solution:
             return True
         else:
             n = str(x)
-            for i in range(len(n) // 2):
-                if n[i] != n[-i - 1]:
-                    return False
-            return True
+            if n == n[::-1]:
+                return True
+            else:
+                return False
+            
+                
         
         
