@@ -5,13 +5,14 @@ class Solution:
             alphabet[str(u)] = chr(val)
         for a, val in enumerate(range(ord('j'), ord('z') + 1), start = 10):
             alphabet[str(a) + '#'] = chr(val)
-        ans = ""
+            
+        ans = []
         i = 0
         while i < len(s):
             if i+2 < len(s) and s[i+2] == '#':
-                ans +=  alphabet[s[i:i+3]]
+                ans.append(alphabet[s[i:i+3]])
                 i += 3
             else:
-                ans += alphabet[s[i]]
+                ans.append(alphabet[s[i]])
                 i += 1
-        return ans
+        return ''.join(ans)
