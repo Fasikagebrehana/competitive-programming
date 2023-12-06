@@ -7,7 +7,7 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> candies = [2,3,5,1,3], extraCandies = 3
+<pre style="position: relative;"><strong>Input:</strong> candies = [2,3,5,1,3], extraCandies = 3
 <strong>Output:</strong> [true,true,true,false,true] 
 <strong>Explanation:</strong> If you give all extraCandies to:
 - Kid 1, they will have 2 + 3 = 5 candies, which is the greatest among the kids.
@@ -15,21 +15,21 @@
 - Kid 3, they will have 5 + 3 = 8 candies, which is the greatest among the kids.
 - Kid 4, they will have 1 + 3 = 4 candies, which is not the greatest among the kids.
 - Kid 5, they will have 3 + 3 = 6 candies, which is the greatest among the kids.
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> candies = [4,2,1,1,2], extraCandies = 1
+<pre style="position: relative;"><strong>Input:</strong> candies = [4,2,1,1,2], extraCandies = 1
 <strong>Output:</strong> [true,false,false,false,false] 
 <strong>Explanation:</strong> There is only 1 extra candy.
 Kid 1 will always have the greatest number of candies, even if a different kid is given the extra candy.
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p><strong class="example">Example 3:</strong></p>
 
-<pre><strong>Input:</strong> candies = [12,1,12], extraCandies = 10
+<pre style="position: relative;"><strong>Input:</strong> candies = [12,1,12], extraCandies = 10
 <strong>Output:</strong> [true,false,true]
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
