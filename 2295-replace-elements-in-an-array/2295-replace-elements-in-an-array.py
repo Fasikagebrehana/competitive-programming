@@ -3,8 +3,8 @@ class Solution:
         dic = {}
         for i in range(len(nums)):
             dic[nums[i]] = i
-        for j in range(len(operations)):
-            x, y = operations[j]
+        for x, y in (operations):
+            
             nums[dic[x]] = y
             dic[y] = dic[x]
         return nums
