@@ -22,6 +22,7 @@ class RandomizedSet:
             del self.rset[val]
             return True
         return False
+    
     def getRandom(self) -> int:
         if len(self.randset) > 0:
             return random.choice(self.randset)
