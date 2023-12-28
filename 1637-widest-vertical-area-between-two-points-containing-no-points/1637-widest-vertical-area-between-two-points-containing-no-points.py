@@ -2,8 +2,8 @@ class Solution:
     def maxWidthOfVerticalArea(self, points: List[List[int]]) -> int:
         width = []
         dic = {}
-        for x,y in points:
-            width.append(x)
+        for p in points:
+            width.append(p[0])
         width.sort()
         
         for i in range(1, len(width)-1):
