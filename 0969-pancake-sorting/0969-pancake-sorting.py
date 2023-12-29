@@ -21,5 +21,5 @@ class Solution:
                 arr[0:end] = seg
                 ans.append(end)
             end -= 1
-            print(arr)
+            
         return ans
