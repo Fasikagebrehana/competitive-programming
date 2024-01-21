@@ -6,10 +6,8 @@ class Solution:
         for passengers, start, end in trips:
             temp[start] += passengers
             temp[end] -= passengers
-        # print(temp)
         for i in range(1, len(temp)):
             temp[i] += temp[i-1]
-        # print(temp)
         if max(temp) > capacity:
             return False
         else:
