@@ -9,7 +9,6 @@ class Solution:
         occur = math.ceil(len(s)/4)
         min_length = len(s)
         left = 0
-        print(counter)
         for right in range(len(s)):
             counter[s[right]] -= 1
             while left < len(s) and counter['Q'] <= occur and counter['E'] <= occur and counter['R'] <= occur and counter['W'] <= occur:
