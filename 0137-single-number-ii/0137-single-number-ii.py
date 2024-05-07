@@ -1,6 +1,7 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        counter = Counter(nums)
-        for key, val in counter.items():
-            if val == 1:
-                return key
+        v1, v2 = 0, 0
+        for num in nums:
+            v1 = (num ^ v1) & ~(v2)
+            v2 = (num ^ v2) & ~(v1)
+        return v1
