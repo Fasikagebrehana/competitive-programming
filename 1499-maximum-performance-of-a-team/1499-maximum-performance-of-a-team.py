@@ -5,20 +5,18 @@ class Solution:
             arr.append((efficiency[i], speed[i]))
         arr.sort(reverse = True)
         heap = []
-        mod = 10**9 + 7
         summ = 0
+        mod = 10 ** 9 + 7
         i = 0
         maxx = 0
         while i < len(arr):
-            heappush(heap, arr[i][1])
-            summ += arr[i][1]
-            if len(heap) > k:
+            if len(heap) < k:
+                heappush(heap, arr[i][1])
+                summ += arr[i][1]
+                maxx = max(maxx, (summ * arr[i][0]))
+                i += 1
+            else:
                 temp = heappop(heap)
+                maxx = max(maxx, (summ * arr[i-1][0]))
                 summ -= temp
-            
-            maxx = max(maxx, (summ * arr[i][0]))
-            i += 1
         return maxx % mod
-
-
-            
