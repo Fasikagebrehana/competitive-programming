@@ -20,15 +20,15 @@ class Solution:
             if idx == len(nums):
                 return False
 
-            if targetSum == 0:
+            if targetSum == half:
                 return True
-            if targetSum < 0:
+            if targetSum > half:
                 return False
             
             if (idx, targetSum) not in store:
-                store[(idx, targetSum)] = partition(idx + 1, targetSum - nums[idx]) or partition(idx + 1, targetSum)
+                store[(idx, targetSum)] = partition(idx + 1, targetSum + nums[idx]) or partition(idx + 1, targetSum)
 
             return store[(idx, targetSum)]
 
-        return partition(0, half)
+        return partition(0, 0)
                 
