@@ -1,12 +1,14 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        l, r = 0, 1
-        maxprofit = 0
-        while r < len(prices):
-            if prices[l] < prices[r]:
-                profit = prices[r] - prices[l]
-                maxprofit = max(maxprofit, profit)
-            else:
-                l = r
-            r += 1
-        return maxprofit
+        store = {}
+        n = len(prices)
+        def profit(i, state):
+            if i  >= n:
+                return 0
+            if (i, state) not in store:
+                if not state:
+                    store[((i, state))] = max(profit(i + 1, not state) - prices[i], profit(i+1, state))
+                else:
+                    store[((i, state))] = max(prices[i], profit(i+1, state))
+            return store[(i, state)]
+        return profit(0, False)
