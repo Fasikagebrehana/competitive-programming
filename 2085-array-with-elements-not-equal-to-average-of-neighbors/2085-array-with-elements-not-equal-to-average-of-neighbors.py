@@ -6,7 +6,6 @@ class Solution:
         less = []
         for i in range(len(nums) // 2):
             less.append(nums[i])
-        print(less)
         greater = []
         for i in range(len(nums) // 2, len(nums)):
             greater.append(nums[i])
