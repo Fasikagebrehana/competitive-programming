@@ -6,10 +6,8 @@ class Solution:
         if m == 0:
             nums1[:] = nums2[:]
         else:
-            for i in range(len(nums1)):
-                if i+1 == m:
-                    break
-            nums1[:] = nums1[:i+1]
+            
+            nums1[:] = nums1[:m]
             for i in range(n):
                 nums1.append(nums2[i])
             nums1.sort()
