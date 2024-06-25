@@ -10,8 +10,8 @@ class Solution:
         for right in range(len(diff)):
             curr += diff[right]
             while left <= right and curr > maxCost:
-                max_length = max(max_length, right - left)
                 curr -= diff[left]
                 left += 1
-        max_length = max(max_length, right - left + 1)
+           
+            max_length = max(max_length, right - left + 1)
         return max_length
