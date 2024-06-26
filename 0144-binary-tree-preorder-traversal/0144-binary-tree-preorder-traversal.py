@@ -8,13 +8,11 @@ class Solution:
     def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
         ans = []
         def helper(root):
+            nonlocal ans
             if not root:
                 return
-           
             ans.append(root.val)
             helper(root.left)
             helper(root.right)
-            return
         helper(root)
         return ans
-        
