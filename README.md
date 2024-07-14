@@ -26,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0443-string-compression) |
+| [0874-backspace-string-compare](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0874-backspace-string-compare) |
 ## String
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0443-string-compression) |
+| [0874-backspace-string-compare](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0874-backspace-string-compare) |
 | [1720-crawler-log-folder](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1720-crawler-log-folder) |
 ## Array
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0874-backspace-string-compare) |
 | [1803-average-waiting-time](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0874-backspace-string-compare) |
 | [1720-crawler-log-folder](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1720-crawler-log-folder) |
 ## Tree
 |  |
