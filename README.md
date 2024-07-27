@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0187-repeated-dna-sequences) |
 | [0443-string-compression](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0443-string-compression) |
 | [0874-backspace-string-compare](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0874-backspace-string-compare) |
 | [1720-crawler-log-folder](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1720-crawler-log-folder) |
@@ -167,11 +168,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0187-repeated-dna-sequences) |
 | [1775-design-an-ordered-stream](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1775-design-an-ordered-stream) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0187-repeated-dna-sequences) |
 ## Data Stream
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0191-number-of-1-bits) |
 ## Bucket Sort
 |  |
@@ -200,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0948-sort-an-array) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
