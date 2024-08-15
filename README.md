@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0056-merge-intervals) |
 | [0948-sort-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [0682-baseball-game](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0682-baseball-game) |
 | [0940-fruit-into-baskets](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0940-fruit-into-baskets) |
