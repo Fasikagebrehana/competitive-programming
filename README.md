@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0055-jump-game) |
+| [0624-maximum-distance-in-arrays](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0624-maximum-distance-in-arrays) |
 | [1139-previous-permutation-with-one-swap](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1139-previous-permutation-with-one-swap) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0073-set-matrix-zeroes) |
+| [0624-maximum-distance-in-arrays](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0624-maximum-distance-in-arrays) |
 | [0682-baseball-game](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0682-baseball-game) |
 | [0940-fruit-into-baskets](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0948-sort-an-array) |
