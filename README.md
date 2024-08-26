@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Breadth-First Search
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0682-baseball-game) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0874-backspace-string-compare) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1720-crawler-log-folder](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1720-crawler-log-folder) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
