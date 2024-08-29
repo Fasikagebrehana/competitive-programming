@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0264-ugly-number-ii) |
 | [0948-sort-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0948-sort-an-array) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2379-maximum-total-importance-of-roads) |
 ## Two Pointers
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0231-power-of-two) |
+| [0264-ugly-number-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0264-ugly-number-ii) |
 | [0755-reach-a-number](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0755-reach-a-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2628-minimize-the-maximum-of-two-arrays) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [0187-repeated-dna-sequences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0187-repeated-dna-sequences) |
+| [0264-ugly-number-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0264-ugly-number-ii) |
 | [0940-fruit-into-baskets](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0940-fruit-into-baskets) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1775-design-an-ordered-stream](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1775-design-an-ordered-stream) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0055-jump-game) |
+| [0264-ugly-number-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0264-ugly-number-ii) |
 | [2176-parallel-courses-iii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2176-parallel-courses-iii) |
 ## Topological Sort
 |  |
