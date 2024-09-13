@@ -5,7 +5,7 @@ class Solution:
             if edges[i] != -1:
                 adjList[i].append(edges[i])
 
-        print(adjList)
+        # print(adjList)
 
         def dfs(color, node):
             nonlocal cycle_length
