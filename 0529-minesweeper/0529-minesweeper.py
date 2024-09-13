@@ -23,7 +23,7 @@ class Solution:
                 for x, y in directions:
                     newRow, newCol = x + r, y + c
                     if inbound(newRow, newCol) and board[newRow][newCol] == 'M':
-                        print('helloooo')
+                        # print('helloooo')
                         count += 1
                 if count > 0:
                     board[r][c] = str(count)
