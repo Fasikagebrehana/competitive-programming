@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0386-lexicographical-numbers](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0386-lexicographical-numbers) |
 | [0529-minesweeper](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0529-minesweeper) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0813-all-paths-from-source-to-target](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0813-all-paths-from-source-to-target) |
@@ -347,5 +348,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0386-lexicographical-numbers) |
 | [0648-replace-words](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
