@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2379-maximum-total-importance-of-roads) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Graph
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1675-magnetic-force-between-two-balls) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0755-reach-a-number](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0755-reach-a-number) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1675-magnetic-force-between-two-balls) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0187-repeated-dna-sequences) |
 | [0940-fruit-into-baskets](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0940-fruit-into-baskets) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Data Stream
 |  |
@@ -343,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1435-xor-queries-of-a-subarray) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Trie
