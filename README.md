@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0624-maximum-distance-in-arrays) |
 | [0648-replace-words](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0648-replace-words) |
 | [0682-baseball-game](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0682-baseball-game) |
+| [0729-my-calendar-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0860-design-circular-queue) |
 | [0940-fruit-into-baskets](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0940-fruit-into-baskets) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0729-my-calendar-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0729-my-calendar-i) |
 | [0755-reach-a-number](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0755-reach-a-number) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1675-magnetic-force-between-two-balls) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0729-my-calendar-i) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Merge Sort
 |  |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0729-my-calendar-i) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Math
 |  |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0155-min-stack) |
+| [0729-my-calendar-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0860-design-circular-queue) |
 | [1775-design-an-ordered-stream](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1775-design-an-ordered-stream) |
