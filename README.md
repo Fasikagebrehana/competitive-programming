@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1675-magnetic-force-between-two-balls) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1720-crawler-log-folder) |
+| [1772-create-sorted-array-through-instructions](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1772-create-sorted-array-through-instructions) |
 | [1775-design-an-ordered-stream](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1775-design-an-ordered-stream) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1803-average-waiting-time) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0755-reach-a-number](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0755-reach-a-number) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1675-magnetic-force-between-two-balls) |
+| [1772-create-sorted-array-through-instructions](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1772-create-sorted-array-through-instructions) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -181,25 +183,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0948-sort-an-array) |
+| [1772-create-sorted-array-through-instructions](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1772-create-sorted-array-through-instructions) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [1772-create-sorted-array-through-instructions](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1772-create-sorted-array-through-instructions) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Segment Tree
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0729-my-calendar-i) |
+| [1772-create-sorted-array-through-instructions](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1772-create-sorted-array-through-instructions) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Merge Sort
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0948-sort-an-array) |
+| [1772-create-sorted-array-through-instructions](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1772-create-sorted-array-through-instructions) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0729-my-calendar-i) |
+| [1772-create-sorted-array-through-instructions](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1772-create-sorted-array-through-instructions) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2413-smallest-number-in-infinite-set) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Math
