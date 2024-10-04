@@ -29,6 +29,6 @@ class Solution:
                     return -1
            
                 
-        print(dic)
-        print(t)
+        # print(dic)
+        # print(t)
         return chemistry
