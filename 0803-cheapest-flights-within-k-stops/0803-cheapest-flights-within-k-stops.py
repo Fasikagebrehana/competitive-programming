@@ -1,9 +1,9 @@
 class Solution:
     def findCheapestPrice(self, n: int, flights: List[List[int]], src: int, dst: int, k: int) -> int:
-        graph = defaultdict(list)
+        # graph = defaultdict(list)
         
-        for x, y, w in flights:
-            graph[x].append((y, w))
+        # for x, y, w in flights:
+        #     graph[x].append((y, w))
         
         prev = [inf] * n
         prev[src] = 0
