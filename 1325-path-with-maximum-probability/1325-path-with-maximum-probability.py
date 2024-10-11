@@ -19,7 +19,8 @@ class Solution:
             if node in processed:
                 continue
             processed.add(node)
-
+            if node == end_node:
+                return -(distances[end_node])
             for neigh, w in graph[node]:
                 # if neigh in processed:
                 #     continue
