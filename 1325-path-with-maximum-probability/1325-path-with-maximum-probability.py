@@ -22,8 +22,8 @@ class Solution:
             if node == end_node:
                 return -(distances[end_node])
             for neigh, w in graph[node]:
-                # if neigh in processed:
-                #     continue
+                if neigh in processed:
+                    continue
                 dis = weight * w
                 if distances[neigh] > dis:
                     distances[neigh] = dis
