@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0813-all-paths-from-source-to-target) |
 | [1325-path-with-maximum-probability](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1325-path-with-maximum-probability) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2176-parallel-courses-iii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2176-parallel-courses-iii) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2379-maximum-total-importance-of-roads) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0055-jump-game) |
 | [0264-ugly-number-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0264-ugly-number-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2176-parallel-courses-iii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2176-parallel-courses-iii) |
 ## Topological Sort
@@ -440,4 +442,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1325-path-with-maximum-probability) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
