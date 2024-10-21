@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0143-reorder-list) |
 | [0443-string-compression](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0443-string-compression) |
 | [0874-backspace-string-compare](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0874-backspace-string-compare) |
+| [0961-long-pressed-name](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0961-long-pressed-name) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0961-long-pressed-name](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0961-long-pressed-name) |
 | [1026-string-without-aaa-or-bbb](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1026-string-without-aaa-or-bbb) |
 | [1304-longest-happy-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1304-longest-happy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1308-smallest-string-with-swaps) |
