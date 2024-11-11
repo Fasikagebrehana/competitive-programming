@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2379-maximum-total-importance-of-roads) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2715-k-items-with-the-maximum-sum) |
+| [2716-prime-subtraction-operation](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3195-separate-black-and-white-balls) |
 ## Graph
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Binary Search
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2628-minimize-the-maximum-of-two-arrays) |
+| [2716-prime-subtraction-operation](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2716-prime-subtraction-operation) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -276,12 +279,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2645-pass-the-pillow](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2645-pass-the-pillow) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2715-k-items-with-the-maximum-sum) |
+| [2716-prime-subtraction-operation](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2716-prime-subtraction-operation) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0258-add-digits) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2628-minimize-the-maximum-of-two-arrays) |
+| [2716-prime-subtraction-operation](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2716-prime-subtraction-operation) |
 ## Linked List
 |  |
 | ------- |
