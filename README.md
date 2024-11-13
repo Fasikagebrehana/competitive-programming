@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1256-rank-transform-of-an-array) |
 | [1308-smallest-string-with-swaps](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1308-smallest-string-with-swaps) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1308-smallest-string-with-swaps) |
 | [1325-path-with-maximum-probability](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1435-xor-queries-of-a-subarray) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0940-fruit-into-baskets) |
 | [1256-rank-transform-of-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1256-rank-transform-of-an-array) |
 | [1308-smallest-string-with-swaps](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1308-smallest-string-with-swaps) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1775-design-an-ordered-stream](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1775-design-an-ordered-stream) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0948-sort-an-array) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
