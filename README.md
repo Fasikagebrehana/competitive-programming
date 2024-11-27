@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1308-smallest-string-with-swaps) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1512-design-underground-system](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1512-design-underground-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1720-crawler-log-folder) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0860-design-circular-queue) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1512-design-underground-system](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1512-design-underground-system) |
 | [1775-design-an-ordered-stream](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1775-design-an-ordered-stream) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2413-smallest-number-in-infinite-set) |
 ## Hash Table
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1256-rank-transform-of-an-array) |
 | [1308-smallest-string-with-swaps](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1308-smallest-string-with-swaps) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-design-underground-system](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1512-design-underground-system) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1775-design-an-ordered-stream](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1775-design-an-ordered-stream) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
