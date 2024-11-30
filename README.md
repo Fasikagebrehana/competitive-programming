@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0961-long-pressed-name](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0961-long-pressed-name) |
 | [1026-string-without-aaa-or-bbb](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1026-string-without-aaa-or-bbb) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1304-longest-happy-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1304-longest-happy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1308-smallest-string-with-swaps) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0200-number-of-islands) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1308-smallest-string-with-swaps](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1308-smallest-string-with-swaps) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
