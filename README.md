@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1256-rank-transform-of-an-array) |
 | [1308-smallest-string-with-swaps](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1308-smallest-string-with-swaps) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0874-backspace-string-compare) |
 | [0917-boats-to-save-people](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0917-boats-to-save-people) |
 | [0961-long-pressed-name](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0961-long-pressed-name) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1308-smallest-string-with-swaps) |
 | [1325-path-with-maximum-probability](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1435-xor-queries-of-a-subarray) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0729-my-calendar-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0729-my-calendar-i) |
 | [0755-reach-a-number](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0755-reach-a-number) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1675-magnetic-force-between-two-balls) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -443,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0940-fruit-into-baskets) |
 | [1256-rank-transform-of-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1256-rank-transform-of-an-array) |
 | [1308-smallest-string-with-swaps](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1308-smallest-string-with-swaps) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-design-underground-system](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1512-design-underground-system) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
