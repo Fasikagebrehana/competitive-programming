@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0917-boats-to-save-people) |
 | [0961-long-pressed-name](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0961-long-pressed-name) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1512-design-underground-system](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1512-design-underground-system) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1720-crawler-log-folder) |
@@ -587,4 +589,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
