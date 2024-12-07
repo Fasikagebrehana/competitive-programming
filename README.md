@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0859-design-circular-deque) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0432-all-oone-data-structure) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0073-set-matrix-zeroes) |
+| [0146-lru-cache](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0187-repeated-dna-sequences) |
 | [0264-ugly-number-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0264-ugly-number-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0432-all-oone-data-structure) |
 ## Shortest Path
 |  |
