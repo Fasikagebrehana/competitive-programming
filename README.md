@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2379-maximum-total-importance-of-roads) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3291-find-if-array-can-be-sorted) |
 ## Heap (Priority Queue)
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-number-in-infinite-set](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2413-smallest-number-in-infinite-set) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Two Pointers
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2716-prime-subtraction-operation) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2645-pass-the-pillow](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Recursion
@@ -493,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3412-permutation-difference-between-two-strings) |
 ## Sliding Window
