@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2715-k-items-with-the-maximum-sum](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2716-prime-subtraction-operation](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2716-prime-subtraction-operation) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
 | ------- |
