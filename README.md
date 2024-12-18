@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0316-remove-duplicate-letters) |
+| [0605-can-place-flowers](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0917-boats-to-save-people) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0491-non-decreasing-subsequences) |
 | [0529-minesweeper](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0529-minesweeper) |
 | [0539-minimum-time-difference](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0539-minimum-time-difference) |
+| [0605-can-place-flowers](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0624-maximum-distance-in-arrays) |
 | [0648-replace-words](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0648-replace-words) |
 | [0682-baseball-game](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0682-baseball-game) |
