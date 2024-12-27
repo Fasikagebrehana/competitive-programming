@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1002-maximum-width-ramp) |
+| [1063-best-sightseeing-pair](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1063-best-sightseeing-pair) |
 | [1139-previous-permutation-with-one-swap](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1139-previous-permutation-with-one-swap) |
 | [1256-rank-transform-of-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1293-three-consecutive-odds) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0392-is-subsequence](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0392-is-subsequence) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1063-best-sightseeing-pair](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1063-best-sightseeing-pair) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2176-parallel-courses-iii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2176-parallel-courses-iii) |
