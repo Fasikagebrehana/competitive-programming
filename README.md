@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2176-parallel-courses-iii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2176-parallel-courses-iii) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2379-maximum-total-importance-of-roads) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2300-construct-string-with-repeat-limit) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1775-design-an-ordered-stream](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1775-design-an-ordered-stream) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2413-smallest-number-in-infinite-set) |
@@ -561,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2176-parallel-courses-iii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2176-parallel-courses-iii) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2439-longest-cycle-in-a-graph) |
 ## Bit Manipulation
 |  |
