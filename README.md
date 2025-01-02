@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2300-construct-string-with-repeat-limit) |
 | [2580-circular-sentence](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Trie
 |  |
 | ------- |
