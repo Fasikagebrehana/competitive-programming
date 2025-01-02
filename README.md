@@ -585,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0318-maximum-product-of-word-lengths) |
 | [0476-number-complement](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0476-number-complement) |
 | [0491-non-decreasing-subsequences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0491-non-decreasing-subsequences) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0693-binary-number-with-alternating-bits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
