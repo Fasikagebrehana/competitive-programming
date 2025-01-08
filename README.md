@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3412-permutation-difference-between-two-strings) |
 ## Array
 |  |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -633,10 +635,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0187-repeated-dna-sequences) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0187-repeated-dna-sequences) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -672,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0648-replace-words](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0648-replace-words) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -703,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Quickselect
 |  |
 | ------- |
