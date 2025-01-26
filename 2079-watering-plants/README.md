@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/watering-plants/">2079. Watering Plants</a></h2><h3>Medium</h3><hr><div><p>You want to water <code>n</code> plants in your garden with a watering can. The plants are arranged in a row and are labeled from <code>0</code> to <code>n - 1</code> from left to right where the <code>i<sup>th</sup></code> plant is located at <code>x = i</code>. There is a river at <code>x = -1</code> that you can refill your watering can at.</p>
+<h2><a href="https://leetcode.com/problems/watering-plants/">2079. Watering Plants</a></h2><h3>Medium</h3><hr><p>You want to water <code>n</code> plants in your garden with a watering can. The plants are arranged in a row and are labeled from <code>0</code> to <code>n - 1</code> from left to right where the <code>i<sup>th</sup></code> plant is located at <code>x = i</code>. There is a river at <code>x = -1</code> that you can refill your watering can at.</p>
 
 <p>Each plant needs a specific amount of water. You will water the plants in the following way:</p>
 
@@ -15,7 +15,8 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre style="position: relative;"><strong>Input:</strong> plants = [2,2,3,3], capacity = 5
+<pre>
+<strong>Input:</strong> plants = [2,2,3,3], capacity = 5
 <strong>Output:</strong> 14
 <strong>Explanation:</strong> Start at the river with a full watering can:
 - Walk to plant 0 (1 step) and water it. Watering can has 3 units of water.
@@ -25,11 +26,12 @@
 - Since you cannot completely water plant 3, walk back to the river to refill (3 steps).
 - Walk to plant 3 (4 steps) and water it.
 Steps needed = 1 + 1 + 2 + 3 + 3 + 4 = 14.
-<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
+</pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre style="position: relative;"><strong>Input:</strong> plants = [1,1,1,4,2,3], capacity = 4
+<pre>
+<strong>Input:</strong> plants = [1,1,1,4,2,3], capacity = 4
 <strong>Output:</strong> 30
 <strong>Explanation:</strong> Start at the river with a full watering can:
 - Water plants 0, 1, and 2 (3 steps). Return to river (3 steps).
@@ -37,15 +39,16 @@ Steps needed = 1 + 1 + 2 + 3 + 3 + 4 = 14.
 - Water plant 4 (5 steps). Return to river (5 steps).
 - Water plant 5 (6 steps).
 Steps needed = 3 + 3 + 4 + 4 + 5 + 5 + 6 = 30.
-<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
+</pre>
 
 <p><strong class="example">Example 3:</strong></p>
 
-<pre style="position: relative;"><strong>Input:</strong> plants = [7,7,7,7,7,7,7], capacity = 8
+<pre>
+<strong>Input:</strong> plants = [7,7,7,7,7,7,7], capacity = 8
 <strong>Output:</strong> 49
 <strong>Explanation:</strong> You have to refill before watering each plant.
 Steps needed = 1 + 1 + 2 + 2 + 3 + 3 + 4 + 4 + 5 + 5 + 6 + 6 + 7 = 49.
-<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
+</pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
@@ -56,4 +59,3 @@ Steps needed = 1 + 1 + 2 + 2 + 3 + 3 + 4 + 4 + 5 + 5 + 6 + 6 + 7 = 49.
 	<li><code>1 &lt;= plants[i] &lt;= 10<sup>6</sup></code></li>
 	<li><code>max(plants[i]) &lt;= capacity &lt;= 10<sup>9</sup></code></li>
 </ul>
-</div>
