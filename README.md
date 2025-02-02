@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1803-average-waiting-time) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1923-sentence-similarity-iii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
