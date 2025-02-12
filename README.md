@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2379-maximum-total-importance-of-roads) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2379-maximum-total-importance-of-roads) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2413-smallest-number-in-infinite-set) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2448-count-number-of-bad-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2465-shifting-letters-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2413-smallest-number-in-infinite-set) |
 | [2448-count-number-of-bad-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2599-take-k-of-each-character-from-left-and-right) |
