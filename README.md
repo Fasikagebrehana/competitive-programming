@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0143-reorder-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0443-string-compression) |
 | [0874-backspace-string-compare](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0874-backspace-string-compare) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0187-repeated-dna-sequences) |
 | [0316-remove-duplicate-letters](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0318-maximum-product-of-word-lengths) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0539-minimum-time-difference) |
