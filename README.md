@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0539-minimum-time-difference) |
 | [0755-reach-a-number](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0755-reach-a-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2448-count-number-of-bad-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2491-smallest-even-multiple) |
