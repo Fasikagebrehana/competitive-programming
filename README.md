@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2491-smallest-even-multiple) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2645-pass-the-pillow](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2645-pass-the-pillow) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2649-count-total-number-of-colored-cells) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2716-prime-subtraction-operation](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2716-prime-subtraction-operation) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
