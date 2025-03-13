@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3639-zero-array-transformation-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3639-zero-array-transformation-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -757,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3639-zero-array-transformation-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3639-zero-array-transformation-i) |
 ## Trie
 |  |
 | ------- |
