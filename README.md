@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3291-find-if-array-can-be-sorted) |
+| [3430-count-days-without-meetings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3430-count-days-without-meetings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3430-count-days-without-meetings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
