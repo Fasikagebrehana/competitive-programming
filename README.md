@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-watering-plants](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1310-watering-plants) |
 | [1325-path-with-maximum-probability](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1325-path-with-maximum-probability) |
 | [1364-tuple-with-same-product](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1364-tuple-with-same-product) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0539-minimum-time-difference) |
 | [0755-reach-a-number](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0755-reach-a-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
