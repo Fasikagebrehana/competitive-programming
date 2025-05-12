@@ -11,7 +11,6 @@ class Solution:
                 store[(b, a)] += 1
             else:
                 store[(a,b)] += 1
-        # print(store)
 
         for key, val in store.items():
             if val > 1:
