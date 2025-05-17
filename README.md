@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0347-top-k-frequent-elements) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0143-reorder-list) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0200-number-of-islands) |
