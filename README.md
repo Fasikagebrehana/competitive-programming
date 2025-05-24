@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3194-find-words-containing-character](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3194-find-words-containing-character](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
