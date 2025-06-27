@@ -1,14 +1,15 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        store = {}
-        n = len(prices)
-        def profit(i, state):
-            if i  >= n:
-                return 0
-            if (i, state) not in store:
-                if not state:
-                    store[((i, state))] = max(profit(i + 1, not state) - prices[i], profit(i+1, state))
-                else:
-                    store[((i, state))] = max(prices[i], profit(i+1, state))
-            return store[(i, state)]
-        return profit(0, False)
+        profit = 0
+        suffix = [0] * len(prices)
+        curr = 0
+        for i in range(len(prices)-1, -1, -1):
+            curr = max(curr, prices[i])
+            suffix[i] = curr
+        
+        # print(suffix)
+
+        for i in range(len(prices)):
+            profit = max(profit, suffix[i] - prices[i])
+
+        return profit
