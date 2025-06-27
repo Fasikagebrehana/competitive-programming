@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0217-contains-duplicate) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0264-ugly-number-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0392-is-subsequence](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0392-is-subsequence) |
