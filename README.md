@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0318-maximum-product-of-word-lengths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0539-minimum-time-difference) |
 | [0648-replace-words](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0648-replace-words) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0399-evaluate-division) |
 | [0491-non-decreasing-subsequences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0491-non-decreasing-subsequences) |
 | [0529-minesweeper](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0529-minesweeper) |
 | [0539-minimum-time-difference](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0539-minimum-time-difference) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0386-lexicographical-numbers](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0386-lexicographical-numbers) |
+| [0399-evaluate-division](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0399-evaluate-division) |
 | [0529-minesweeper](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0529-minesweeper) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0684-redundant-connection) |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0399-evaluate-division) |
 | [0529-minesweeper](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0529-minesweeper) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0684-redundant-connection) |
@@ -426,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0684-redundant-connection) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1308-smallest-string-with-swaps](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1308-smallest-string-with-swaps) |
@@ -842,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1325-path-with-maximum-probability) |
