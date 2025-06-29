@@ -1,11 +1,21 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
-        store = {}
-        def climb(n):
-            if n < 3:
-                return n
-            if n not in store:
-                store[n] = climb(n-1) + climb(n-2)
-            return store[n]
-        ans = climb(n)
-        return ans
+        memo = {}
+        ans = 0
+        def dp(steps):
+            nonlocal ans
+
+            if steps == 1:
+                return 1
+            if steps == 2:
+                return 2
+            if steps in memo:
+                return memo[steps]
+            
+            ans = dp(steps - 1) + dp(steps - 2)
+            memo[steps] = ans
+            return ans
+
+        
+        
+        return dp(n)
