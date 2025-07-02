@@ -1,14 +1,16 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        # Not which number is k times repeated
+        # the most k frequent items
         counter = Counter(nums)
-        heap = []
+        frequent = []
 
-        for num, count in counter.items():
-            heappush(heap, (-count, num))
-        
-        freq_elements = []
-        while heap and k > 0:
-            c, num = heappop(heap)
-            freq_elements.append(num)
+        heap = []
+        for key, val in counter.items():
+            heappush(heap, (-val, key))
+        # print(heap)
+        while k > 0 and heap:
+            count, num = heappop(heap)
+            frequent.append(num)
             k -= 1
-        return freq_elements
+        return frequent
