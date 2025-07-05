@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0813-all-paths-from-source-to-target) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1308-smallest-string-with-swaps](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1308-smallest-string-with-swaps) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0813-all-paths-from-source-to-target) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1308-smallest-string-with-swaps](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1308-smallest-string-with-swaps) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0366-find-leaves-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0366-find-leaves-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0662-maximum-width-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
@@ -634,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0366-find-leaves-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0662-maximum-width-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Design
@@ -666,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0432-all-oone-data-structure) |
 | [0491-non-decreasing-subsequences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0491-non-decreasing-subsequences) |
 | [0648-replace-words](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0648-replace-words) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0940-fruit-into-baskets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1227-number-of-equivalent-domino-pairs) |
