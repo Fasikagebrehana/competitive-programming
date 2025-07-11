@@ -543,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0146-lru-cache) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0231-power-of-two) |
