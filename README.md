@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0399-evaluate-division) |
 | [0529-minesweeper](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0529-minesweeper) |
+| [0543-diameter-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0733-flood-fill) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0366-find-leaves-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0662-maximum-width-of-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0366-find-leaves-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
