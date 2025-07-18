@@ -6,46 +6,26 @@
 #         self.right = right
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        
-        def helper(root, mini, maxi):
+        arr = []
+        if not root:
+            return
+
+        def helper(root):
+            nonlocal arr
+
             if not root:
                 return True
-            if root.val >= maxi or root.val <= mini:
-                return False
-            return helper(root.left, mini, root.val) and helper(root.right, root.val, maxi)
+
+            if root.left:
+                left = helper(root.left)
+
+            arr.append(root.val)
+
+            if root.right:
+                right = helper(root.right)
+
             
-            
-        return helper(root, -inf, inf)
-        
-        
-        
-#         def helper(root):
-#             if root.right:
-#                 while root.right:
-#                     root = root.right
-#             return root.val
-        
-#         def helper1(root):
-#             if root.left:
-#                 while root.left:
-#                     root = root.left
-#             return root.val
-#         if root.left:
-#             leftMax = helper(root.left)
-#         else:
-#             leftMax = root.val
-#         if root.right:
-#             rightMin = helper1(root.right)
-#         else:
-#             rightMin = root.val
-        
-#         if leftMax > root.val or rightMin < root.val:
-#             return False
-        
-#         left = self.isValidBST(root.left)        
-#         right = self.isValidBST(root.right)
-        
-#         if left == True and right == True:
-#             return True
-#         else:
-#             return False
+        helper(root)
+        if len(arr) == len(set(arr)) and sorted(arr) == arr:
+            return True
+        return False
