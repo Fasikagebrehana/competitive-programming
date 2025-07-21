@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0860-design-circular-queue) |
 | [1582-design-browser-history](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1582-design-browser-history) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
