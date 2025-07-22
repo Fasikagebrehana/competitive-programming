@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1775-design-an-ordered-stream](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1775-design-an-ordered-stream) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1803-average-waiting-time) |
+| [1813-maximum-erasure-value](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1813-maximum-erasure-value) |
 | [1829-maximum-units-on-a-truck](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1829-maximum-units-on-a-truck) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -730,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-arithmetic-subarrays](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1752-arithmetic-subarrays) |
 | [1775-design-an-ordered-stream](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1775-design-an-ordered-stream) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1813-maximum-erasure-value) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1755-defuse-the-bomb) |
+| [1813-maximum-erasure-value](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
