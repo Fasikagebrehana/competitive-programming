@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0187-repeated-dna-sequences) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0258-add-digits) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0735-asteroid-collision) |
