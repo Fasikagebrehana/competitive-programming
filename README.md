@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0147-insertion-sort-list) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0187-repeated-dna-sequences) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0056-merge-intervals) |
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0138-copy-list-with-random-pointer) |
