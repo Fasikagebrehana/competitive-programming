@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0318-maximum-product-of-word-lengths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0345-reverse-vowels-of-a-string) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0347-top-k-frequent-elements) |
