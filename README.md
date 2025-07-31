@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3430-count-days-without-meetings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0860-design-circular-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Stack
 |  |
 | ------- |
@@ -801,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Data Stream
@@ -856,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -932,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3639-zero-array-transformation-i) |
 ## Trie
 |  |
