@@ -548,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0258-add-digits) |
@@ -826,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0152-maximum-product-subarray) |
@@ -1002,5 +1004,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0062-unique-paths) |
 | [2605-count-anagrams](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2605-count-anagrams) |
 <!---LeetCode Topics End-->
