@@ -1,15 +1,12 @@
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
-        store = {}
-        def dp(row, col):
-            if row == m - 1 and col == n - 1:
-                return 1
-            right, down = 0, 0
-            if (row, col) not in store:
-                if row < m:
-                    right = dp(row + 1, col)
-                if col < n:
-                    down = dp(row, col + 1)
-                store[(row, col)] = right + down
-            return store[(row, col)]
-        return dp(0, 0)
+        # totallly to reach m-1, n-1 we have 2 options right and down
+        # which means starting from 0, 0 robot moves m-1 and n-1
+        # we can take the combination using the sum of these 2 which is 
+        # m-1 + n-1 = m +n -2
+
+        nominator = m +n - 2
+        r = math.factorial(n-1)
+        denominator = r * math.factorial(m-1)
+        combination = math.factorial(nominator) // denominator
+        return combination
