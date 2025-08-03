@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0624-maximum-distance-in-arrays) |
 | [0649-dota2-senate](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0649-dota2-senate) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0778-reorganize-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0917-boats-to-save-people) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0624-maximum-distance-in-arrays) |
 | [0648-replace-words](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0648-replace-words) |
 | [0682-baseball-game](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0682-baseball-game) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0729-my-calendar-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0735-asteroid-collision) |
@@ -838,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0264-ugly-number-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0392-is-subsequence](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0392-is-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1063-best-sightseeing-pair](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1063-best-sightseeing-pair) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
