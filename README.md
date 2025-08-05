@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3639-zero-array-transformation-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2716-prime-subtraction-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3790-fruits-into-baskets-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0729-my-calendar-i) |
 | [1772-create-sorted-array-through-instructions](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1772-create-sorted-array-through-instructions) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [3790-fruits-into-baskets-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3790-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1772-create-sorted-array-through-instructions](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1772-create-sorted-array-through-instructions) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2413-smallest-number-in-infinite-set) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [3790-fruits-into-baskets-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -640,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3447-clear-digits) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3790-fruits-into-baskets-ii) |
 ## Recursion
 |  |
 | ------- |
