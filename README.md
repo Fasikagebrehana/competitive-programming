@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0399-evaluate-division) |
+| [0456-132-pattern](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0456-132-pattern) |
 | [0491-non-decreasing-subsequences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0491-non-decreasing-subsequences) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0529-minesweeper](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0529-minesweeper) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0456-132-pattern](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0456-132-pattern) |
 | [0729-my-calendar-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0729-my-calendar-i) |
 | [0755-reach-a-number](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0755-reach-a-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0456-132-pattern) |
 | [0729-my-calendar-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0729-my-calendar-i) |
 | [1772-create-sorted-array-through-instructions](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1772-create-sorted-array-through-instructions) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2413-smallest-number-in-infinite-set) |
@@ -671,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0456-132-pattern) |
 | [0682-baseball-game](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -933,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0456-132-pattern) |
 | [1002-maximum-width-ramp](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Search Tree
