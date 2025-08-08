@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0101-symmetric-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0200-number-of-islands) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0101-symmetric-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0222-count-complete-tree-nodes) |
@@ -721,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0101-symmetric-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0222-count-complete-tree-nodes) |
