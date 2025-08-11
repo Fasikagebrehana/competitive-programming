@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1308-smallest-string-with-swaps) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -722,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Design
