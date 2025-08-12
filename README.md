@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0187-repeated-dna-sequences) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0101-symmetric-tree) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -973,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0079-word-search) |
 | [0491-non-decreasing-subsequences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0491-non-decreasing-subsequences) |
 | [0813-all-paths-from-source-to-target](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0813-all-paths-from-source-to-target) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
