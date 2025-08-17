@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0137-single-number-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -908,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0222-count-complete-tree-nodes) |
