@@ -23,10 +23,12 @@ class Solution:
             arr[j +1] = temp
 
         # print(arr)
-        head = ListNode(arr[0])
         curr = head
-        for i in range(1, n):
-            curr.next = ListNode(arr[i])
+        i = 0
+        while curr and i < n:
+            curr.val = arr[i]
             curr = curr.next
+            i += 1
+
         # print(head)
         return head
