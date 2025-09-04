@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0347-top-k-frequent-elements) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0191-number-of-1-bits) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0948-sort-an-array) |
 | [1772-create-sorted-array-through-instructions](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1772-create-sorted-array-through-instructions) |
@@ -648,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0138-copy-list-with-random-pointer) |
