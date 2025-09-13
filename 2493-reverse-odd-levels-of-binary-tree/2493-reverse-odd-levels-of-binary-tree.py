@@ -6,24 +6,25 @@
 #         self.right = right
 class Solution:
     def reverseOddLevels(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
+        # we reverse the value not the node itself
         queue = deque([(root, 0)])
-
+        level_arr = []
         while queue:
-            i, j = 0, len(queue) - 1
-            # print(queue[0][0])
-            node, level = queue[0]
-            if level % 2 != 0:
-                while i < j:
-                    val1, l1 = queue[i]
-                    val2, l2 = queue[j]
-                    val1.val, val2.val = val2.val, val1.val
-                    i += 1
-                    j -= 1
+
             for _ in range(len(queue)):
                 node, level = queue.popleft()
+                level_arr.append(node)
+
                 if node.left:
-                    queue.append((node.left, level + 1))
+                    queue.append((node.left, level+1))
                 if node.right:
-                    queue.append((node.right, level + 1))
+                    queue.append((node.right, level+ 1))
+        
+            if level % 2 != 0:
+                l, r = 0, len(level_arr) - 1
+                while l < r:
+                    level_arr[l].val, level_arr[r].val = level_arr[r].val, level_arr[l].val
+                    l+= 1
+                    r -= 1
+            level_arr = []
         return root
-            
