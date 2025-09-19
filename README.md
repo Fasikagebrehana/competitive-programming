@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0744-network-delay-time) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0432-all-oone-data-structure) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0859-design-circular-deque](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0860-design-circular-queue) |
 | [1582-design-browser-history](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1582-design-browser-history) |
@@ -1090,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0432-all-oone-data-structure) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1582-design-browser-history](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1582-design-browser-history) |
 ## Shortest Path
 |  |
