@@ -1,26 +1,28 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
+        # approach is using backtracking collect all the well formed parentheses
+        # we need open and closed brace counts 
+        parenthesis = []
+        arr = []
+        def backtrack(openBrace, closedBrace, arr):
 
-        answer = []
-        brackets = ['(', ')']
-        def backtrack(arr):
-            nonlocal answer, brackets
-            if len(arr) == (n * 2):
-                answer.append(''.join(arr.copy()))
+            if closedBrace == n and openBrace == n:
+                parenthesis.append(''.join(arr[:]))
+                return
+            
+            if openBrace > n or closedBrace > n:
                 return
 
-            if arr.count('(') < n:
+            if openBrace < n:
                 arr.append('(')
-                backtrack(arr)
+                backtrack(openBrace + 1, closedBrace, arr)
                 arr.pop()
-            if arr.count(')') < arr.count('('):
+            if closedBrace < openBrace:
                 arr.append(')')
-                backtrack(arr)
+                backtrack(openBrace, closedBrace + 1, arr)
                 arr.pop()
+        
+        backtrack(0, 0, arr)
+        # print(parenthesis)
 
-
-            
-        backtrack([])
-
-        # print(answer)
-        return answer
+        return parenthesis
