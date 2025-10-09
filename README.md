@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1488-sort-integers-by-the-power-value](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1488-sort-integers-by-the-power-value) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -967,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1063-best-sightseeing-pair](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1063-best-sightseeing-pair) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1488-sort-integers-by-the-power-value](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1488-sort-integers-by-the-power-value) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2176-parallel-courses-iii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2176-parallel-courses-iii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1153,6 +1155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1488-sort-integers-by-the-power-value](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1488-sort-integers-by-the-power-value) |
 ## Combinatorics
 |  |
 | ------- |
