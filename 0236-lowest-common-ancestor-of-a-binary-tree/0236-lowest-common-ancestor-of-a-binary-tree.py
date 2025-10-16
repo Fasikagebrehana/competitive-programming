@@ -12,14 +12,19 @@ class Solution:
             if not root:
                 return
             
-            if root == p or root == q:
-                return root
-            left = dfs(root.left)
-            right =  dfs(root.right)
+            if root == p:
+                return p
+            elif root == q:
+                return q
 
+            left = dfs(root.left)
+            right = dfs(root.right)
             if left and right:
                 return root
+            elif left:
+                return left
+            return right
+        
             
-            return left if left else right
-
+        # print(dfs(root))
         return dfs(root)
