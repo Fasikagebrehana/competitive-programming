@@ -1,29 +1,33 @@
 class UndergroundSystem:
 
     def __init__(self):
+        # startstation: time
         self.checkin = defaultdict(list)
-        self.trip = defaultdict(tuple)
+        # when checking out we calculate the checkout
+        # start,end : time
+        self.checkout = defaultdict(list)
+        self.count = 0
 
     def checkIn(self, id: int, stationName: str, t: int) -> None:
         self.checkin[id] = [stationName, t]
 
     def checkOut(self, id: int, stationName: str, t: int) -> None:
-        end = stationName
-        start, time = self.checkin[id]
-        distance = t - time
-        if len(self.trip[(start, end)]) == 0 or self.trip is None:
-            self.trip[(start, end)] = (distance, 1)
+        # calculate the time that takes from start to end station a
+        checkinstation, checkintime = self.checkin[id]
+        totalTime = (t - checkintime)
+        # self.count += 1
+        if not self.checkout[(checkinstation, stationName)]:
+            self.checkout[(checkinstation, stationName)] = [totalTime, 1] 
+
         else:
-            x, y = self.trip[(start, end)]
-            x += distance
-            y += 1
-            self.trip[(start, end)] = (x, y)
-         
+            self.checkout[(checkinstation, stationName)][0] += totalTime
+            self.checkout[(checkinstation, stationName)][1] += 1
 
 
     def getAverageTime(self, startStation: str, endStation: str) -> float:
-        total, count = self.trip[startStation, endStation]
-        return (total / count)
+        totalTime, totalCount = self.checkout[(startStation, endStation)]
+        return totalTime/ totalCount
+        
 
 
 # Your UndergroundSystem object will be instantiated and called as such:
