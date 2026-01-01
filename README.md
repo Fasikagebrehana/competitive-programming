@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0078-subsets) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0258-add-digits) |
