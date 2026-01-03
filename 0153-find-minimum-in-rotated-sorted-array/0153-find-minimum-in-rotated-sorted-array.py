@@ -1,15 +1,27 @@
 class Solution:
     def findMin(self, nums: List[int]) -> int:
-        low, high = 0, len(nums) - 1
-        if high == low:
-            return nums[low]
-        while high >= low:
-            middle = (low + high) // 2
-            if nums[middle + 1] < nums[middle]:
+        # must find the pivot which is increase then decrease point
+        # 45012
+        # how do we know the number is minimum
+        # middle is less than bothe left and right side of it return middle
+        # middle > middle +1 left = middle +1 min middle + 1
+
+        left, right = 0, len(nums) - 1
+        minn = inf
+        if left == right:
+            return nums[left]
+
+        while left <= right:
+            middle = (left + right) // 2
+
+            if nums[middle] > nums[middle + 1]:
                 return nums[middle + 1]
+
             elif nums[middle] < nums[middle - 1]:
                 return nums[middle]
-            elif nums[high] > nums[middle]:
-                high = middle - 1
-            elif nums[high] < nums[middle]:
-                low = middle + 1
+
+            # the above two cases are if its in the pivot points
+            elif nums[middle] > nums[right]:
+                left = middle + 1
+            elif nums[middle] < nums[right]:
+                right = middle - 1
