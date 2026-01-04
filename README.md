@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1364-tuple-with-same-product](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1364-tuple-with-same-product) |
+| [1390-four-divisors](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0728-self-dividing-numbers) |
 | [0755-reach-a-number](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0755-reach-a-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1390-four-divisors](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
