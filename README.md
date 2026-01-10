@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2300-construct-string-with-repeat-limit) |
 | [2465-shifting-letters-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2465-shifting-letters-ii) |
