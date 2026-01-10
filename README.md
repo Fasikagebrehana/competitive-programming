@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0539-minimum-time-difference) |
 | [0648-replace-words](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0649-dota2-senate) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0778-reorganize-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -1024,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0392-is-subsequence) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1063-best-sightseeing-pair](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1063-best-sightseeing-pair) |
