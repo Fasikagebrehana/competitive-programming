@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1139-previous-permutation-with-one-swap](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1139-previous-permutation-with-one-swap) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1256-rank-transform-of-an-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1293-three-consecutive-odds) |
 | [1308-smallest-string-with-swaps](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1308-smallest-string-with-swaps) |
 | [1310-watering-plants](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1310-watering-plants) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0728-self-dividing-numbers) |
 | [0755-reach-a-number](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0755-reach-a-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1500-count-largest-group) |
@@ -1234,4 +1236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0062-unique-paths) |
 | [2605-count-anagrams](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2605-count-anagrams) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
