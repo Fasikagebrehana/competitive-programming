@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0242-valid-anagram) |
@@ -1029,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0198-house-robber) |
@@ -1161,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0491-non-decreasing-subsequences) |
 | [0813-all-paths-from-source-to-target](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0813-all-paths-from-source-to-target) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
