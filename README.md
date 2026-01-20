@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3321-type-of-triangle](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -1091,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3291-find-if-array-can-be-sorted) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Bucket Sort
