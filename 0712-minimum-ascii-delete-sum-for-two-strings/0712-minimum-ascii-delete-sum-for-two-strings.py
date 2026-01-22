@@ -30,11 +30,11 @@ class Solution:
 
             if (i,j) in store:
                 return store[(i, j)]
-
+            equal = inf
             if s1[i] == s2[j]:
-                return dp(i+1, j+1)
+                equal = dp(i+1, j+1)
             
-            store[(i,j)] = min(ord(s1[i]) + dp(i+1, j), ord(s2[j]) + dp(i, j +1))
+            store[(i,j)] = min(equal, ord(s1[i]) + dp(i+1, j), ord(s2[j]) + dp(i, j +1))
             return store[(i,j)]
         return dp(0, 0)
         # print(dp(0, 0))
