@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1829-maximum-units-on-a-truck) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1975-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1752-arithmetic-subarrays](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1752-arithmetic-subarrays) |
 | [1829-maximum-units-on-a-truck](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1829-maximum-units-on-a-truck) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1923-sentence-similarity-iii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1813-maximum-erasure-value) |
 | [1829-maximum-units-on-a-truck](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1829-maximum-units-on-a-truck) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1923-sentence-similarity-iii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1923-sentence-similarity-iii) |
