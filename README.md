@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0948-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0976-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1137-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1256-rank-transform-of-an-array) |
 | [1308-smallest-string-with-swaps](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1308-smallest-string-with-swaps) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1063-best-sightseeing-pair) |
 | [1137-height-checker](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1137-height-checker) |
 | [1139-previous-permutation-with-one-swap](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1139-previous-permutation-with-one-swap) |
+| [1200-minimum-absolute-difference](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1256-rank-transform-of-an-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1266-minimum-time-visiting-all-points) |
