@@ -1,4 +1,19 @@
 class Solution:
     def sortVowels(self, s: str) -> str:
-        v = sorted([c for c in s if c.lower() in "aeiou"], reverse = True)
-        return ''.join([v.pop() if c.lower() in "aeiou" else c for c in s])
+        all_vowels = {'a', 'A', 'e', 'E', 'i', 'I', 'o', 'O', 'u','U'}
+        vowels = []
+        for ss in s:
+            if ss in all_vowels:
+                vowels.append(ss)
+        vowels.sort()
+        # print(vowels)
+
+        idx = 0
+        answer = []
+        for i in range(len(s)):
+            if s[i] in all_vowels:
+                answer.append(vowels[idx])
+                idx += 1
+            else:
+                answer.append(s[i])
+        return ''.join(answer)
