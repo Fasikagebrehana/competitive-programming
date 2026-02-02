@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2379-maximum-total-importance-of-roads) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2300-construct-string-with-repeat-limit) |
 | [2465-shifting-letters-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2465-shifting-letters-ii) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2232-adding-spaces-to-a-string) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -998,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2413-smallest-number-in-infinite-set) |
