@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1803-average-waiting-time) |
 | [1813-maximum-erasure-value](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1813-maximum-erasure-value) |
 | [1829-maximum-units-on-a-truck](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1829-maximum-units-on-a-truck) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1878-check-if-array-is-sorted-and-rotated) |
