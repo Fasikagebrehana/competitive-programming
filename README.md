@@ -491,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2716-prime-subtraction-operation) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -1112,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1488-sort-integers-by-the-power-value](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1488-sort-integers-by-the-power-value) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2176-parallel-courses-iii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2176-parallel-courses-iii) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Topological Sort
 |  |
