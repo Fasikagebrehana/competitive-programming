@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2689-rearranging-fruits) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2716-prime-subtraction-operation](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2716-prime-subtraction-operation) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3195-separate-black-and-white-balls) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2785-sort-vowels-in-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2887-sort-vowels-in-a-string) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3430-count-days-without-meetings) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
