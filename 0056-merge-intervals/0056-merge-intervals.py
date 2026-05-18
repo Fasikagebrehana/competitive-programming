@@ -1,14 +1,15 @@
 class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
         intervals.sort()
-
-        current_Updated = [intervals[0]]
-        for i in range(1, len(intervals)):
-            # print(current_Updated[-1][0])
-            if intervals[i][0] <= current_Updated[-1][1]:
-                current_Updated[-1][0] = min(intervals[i][0], current_Updated[-1][0])
-                current_Updated[-1][1] = max(intervals[i][1], current_Updated[-1][1])
-            else:
-                current_Updated.append(intervals[i])
+        merged = [intervals[0]]
         
-        return current_Updated
+        for i in range(1, len(intervals)):
+            if intervals[i][0] <= merged[-1][1]:
+                merged[-1][1] = max(merged[-1][1], intervals[i][1])
+            
+            else:
+                merged.append(intervals[i])
+        # print(merged)
+        # time complexity - O(n log n) for the sorting O(n) traverse, appending amortized O(1) so its O(n log n)
+        # space complexity - O(n) because of using merged and No merging happens.
+        return merged
