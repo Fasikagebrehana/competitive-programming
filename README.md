@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2540-minimum-common-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2502-sort-the-people) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2540-minimum-common-value](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2540-minimum-common-value) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2553-separate-the-digits-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [2540-minimum-common-value](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2634-minimum-common-value](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2634-minimum-common-value) |
@@ -1042,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2540-minimum-common-value](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2540-minimum-common-value) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2599-take-k-of-each-character-from-left-and-right) |
