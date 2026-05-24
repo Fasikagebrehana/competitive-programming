@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1675-magnetic-force-between-two-balls) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1720-crawler-log-folder) |
+| [1720-decode-xored-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1720-decode-xored-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1752-arithmetic-subarrays](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1752-arithmetic-subarrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -1164,6 +1165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1009-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1435-xor-queries-of-a-subarray) |
+| [1720-decode-xored-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1720-decode-xored-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
