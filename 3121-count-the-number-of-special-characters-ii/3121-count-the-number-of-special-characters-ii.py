@@ -1,19 +1,20 @@
 class Solution:
     def numberOfSpecialChars(self, word: str) -> int:
-        # you can also first track the smallest index of the upercases in hashmap since the length are 26 max
-        # then for each upercase you can look for if there is any lowercase before it and after it
-        wordSet = set(word)
-        dic = {}
+        # keep track of the index of each appearance of characters
+        lowers = defaultdict(list)
+        uppers = defaultdict(list)
+        # print(ord('z'))
+
+        for i in range(len(word) - 1, -1, -1):
+            if 97 <= ord(word[i]) < 123:
+                lowers[word[i]].append(i)
+            else:
+                uppers[word[i]].append(i)
+
+        # print(lowers)
+        # print(uppers)
         special = 0
-        for i, char in enumerate(word):
-            if char.isupper() and char.lower() in wordSet:
-                if char not in dic:
-                    dic[char] = i
-        
-        for i, char in enumerate(word):
-            if char.islower() and char.upper() in dic:
-                if i > dic[char.upper()]:
-                    dic.pop(char.upper())
-        
-        return len(dic)
-        
+        for ch, idx in lowers.items():
+            if ch.upper() in uppers and max(idx) < min(uppers[ch.upper()]):
+                special += 1
+        return special
