@@ -518,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3291-find-if-array-can-be-sorted) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3321-type-of-triangle](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3321-type-of-triangle) |
@@ -783,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2998-count-symmetric-integers](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3227-find-missing-and-repeated-values) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3321-type-of-triangle) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
