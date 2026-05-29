@@ -3,7 +3,8 @@ class Solution:
         minn = inf
         for num in nums:
             summ = 0
-            for digit in str(num):
-                summ += int(digit)
-            minn = min(minn, summ)
+            while num > 0:
+                summ += num % 10
+                num //= 10
+            minn = min(summ, minn)
         return minn
