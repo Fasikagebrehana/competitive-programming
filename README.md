@@ -875,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0649-dota2-senate](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0649-dota2-senate) |
 | [0859-design-circular-deque](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0860-design-circular-queue) |
@@ -886,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0456-132-pattern) |
@@ -979,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0432-all-oone-data-structure) |
