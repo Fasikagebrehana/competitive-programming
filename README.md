@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0318-maximum-product-of-word-lengths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0399-evaluate-division) |
 | [0415-add-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0443-string-compression) |
@@ -885,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0509-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -906,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0456-132-pattern) |
 | [0682-baseball-game](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0735-asteroid-collision) |
