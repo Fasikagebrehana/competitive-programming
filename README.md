@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3689-maximum-total-subarray-value-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Graph
 |  |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3639-zero-array-transformation-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3689-maximum-total-subarray-value-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3790-fruits-into-baskets-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Binary Search
