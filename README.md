@@ -651,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2439-longest-cycle-in-a-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -811,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3321-type-of-triangle) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
@@ -973,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1731-even-odd-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1731-even-odd-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
