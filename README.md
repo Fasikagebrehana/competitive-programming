@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3617-find-the-original-typed-string-i) |
+| [3838-weighted-word-mapping](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3689-maximum-total-subarray-value-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3790-fruits-into-baskets-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3838-weighted-word-mapping](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -887,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-weighted-word-mapping](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3838-weighted-word-mapping) |
 ## Recursion
 |  |
 | ------- |
