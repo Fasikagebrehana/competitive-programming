@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0137-single-number-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0264-ugly-number-ii) |
@@ -927,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0234-palindrome-linked-list) |
