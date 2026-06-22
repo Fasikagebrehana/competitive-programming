@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1156-occurrences-after-bigram](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1156-occurrences-after-bigram) |
+| [1189-maximum-number-of-balloons](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1189-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1304-longest-happy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1308-smallest-string-with-swaps) |
@@ -1077,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0940-fruit-into-baskets) |
+| [1189-maximum-number-of-balloons](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1256-rank-transform-of-an-array) |
 | [1308-smallest-string-with-swaps](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1308-smallest-string-with-swaps) |
@@ -1257,6 +1259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1137-height-checker) |
+| [1189-maximum-number-of-balloons](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1364-tuple-with-same-product](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1364-tuple-with-same-product) |
