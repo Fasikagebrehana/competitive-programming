@@ -639,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0399-evaluate-division) |
 | [0529-minesweeper](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0529-minesweeper) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0662-maximum-width-of-binary-tree) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0399-evaluate-division) |
 | [0529-minesweeper](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0529-minesweeper) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0684-redundant-connection) |
@@ -988,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0337-house-robber-iii) |
 | [0366-find-leaves-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0366-find-leaves-of-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0662-maximum-width-of-binary-tree) |
@@ -1023,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0337-house-robber-iii) |
 | [0366-find-leaves-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0366-find-leaves-of-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0783-search-in-a-binary-search-tree) |
@@ -1322,6 +1326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0783-search-in-a-binary-search-tree) |
 ## Backtracking
 |  |
