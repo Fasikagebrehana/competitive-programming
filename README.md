@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2716-prime-subtraction-operation) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -710,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
 |  |
@@ -745,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -1445,4 +1450,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0200-number-of-islands) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
