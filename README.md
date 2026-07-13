@@ -1417,6 +1417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Fasikagebrehana/competitive-programming/tree/master/1291-sequential-digits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
