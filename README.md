@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3430-count-days-without-meetings) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3790-fruits-into-baskets-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3838-weighted-word-mapping](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -855,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
@@ -863,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2716-prime-subtraction-operation](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2716-prime-subtraction-operation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -934,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3614-process-string-with-special-operations-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3614-process-string-with-special-operations-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3790-fruits-into-baskets-ii) |
 | [3838-weighted-word-mapping](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
