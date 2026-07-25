@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3430-count-days-without-meetings) |
+| [3536-maximum-product-of-two-digits](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -854,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3321-type-of-triangle) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3536-maximum-product-of-two-digits](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3536-maximum-product-of-two-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3658-gcd-of-odd-and-even-sums) |
