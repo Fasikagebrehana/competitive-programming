@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0539-minimum-time-difference) |
 | [0611-valid-triangle-number](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0778-reorganize-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0948-sort-an-array) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0624-maximum-distance-in-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0648-replace-words) |
 | [0682-baseball-game](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0682-baseball-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -829,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0539-minimum-time-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0728-self-dividing-numbers) |
 | [0755-reach-a-number](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0755-reach-a-number) |
 | [0976-largest-perimeter-triangle](https://github.com/Fasikagebrehana/competitive-programming/tree/master/0976-largest-perimeter-triangle) |
