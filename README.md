@@ -591,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3838-weighted-word-mapping](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3903-smallest-stable-index-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -1407,6 +1408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3639-zero-array-transformation-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3903-smallest-stable-index-i](https://github.com/Fasikagebrehana/competitive-programming/tree/master/3903-smallest-stable-index-i) |
 ## Trie
 |  |
 | ------- |
