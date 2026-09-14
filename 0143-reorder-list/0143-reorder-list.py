@@ -8,36 +8,32 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
-        half = head
-        length = 0
-        while half:
-            length += 1
-            half = half.next
-        middle = length // 2
-        ptr = head
-        l = 0
-        while ptr and l < middle:
-            ptr = ptr.next
-            l += 1
-        prev = None
-        right = ptr
-        while right:
-            right.next, prev, right = prev, right, right.next
-        head2 = prev
         
-        ans = head
-        left = head
-        leng = 0
-        while leng < middle:
-            if left:
-                # print(left.val, 2)
-                temp = left.next
-                ans.next = left
-                left = temp
-                ans = ans.next
-            if head2:
-                t = head2.next
-                ans.next = head2
-                head2 = t
-                ans = ans.next
-            leng += 1
+        fast = head
+        slow = head
+        
+        while fast and fast.next:
+            fast = fast.next.next
+            slow = slow.next
+        # the middle is slow
+
+        prev = None
+        curr = slow.next
+        slow.next = None
+        while curr:
+            temp = curr.next
+            curr.next = prev
+            prev = curr
+            curr = temp
+        
+
+        first = head
+        second = prev
+        while second:
+            temp = first.next
+            temp2 = second.next
+            first.next = second
+            second.next = temp
+            first = temp
+            second = temp2
+        
