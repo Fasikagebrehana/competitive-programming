@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -936,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2232-adding-spaces-to-a-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2232-adding-spaces-to-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Fasikagebrehana/competitive-programming/tree/master/2343-count-unguarded-cells-in-the-grid) |
